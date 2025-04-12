@@ -21,6 +21,7 @@ To use this project, follow these steps:
    ```sh
    git clone https://github.com/princesahanipks/analog-clock
    ```
+   https://codepen.io/princesahanipks/pen/VYwomPV
 2. Open the `index.html` file in a web browser.
 3. Modify as needed and enjoy!
 

@@ -3,7 +3,7 @@
 This repository contains a visually appealing **Analog Clock** designed with HTML, CSS, and JavaScript.
 
 ## Project Overview
-
+PREVIEW:https://pksclock.netlify.app/
 - A real-time analog clock with hour, minute, and second hands.
 - Designed using CSS animations for a smooth ticking effect.
 - Dynamically updates the time using JavaScript.
